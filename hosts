@@ -29726,7 +29726,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.logrocket.io
 0.0.0.0 logger.snackly.co
 0.0.0.0 logs.logrocket.com
-0.0.0.0 logs.roku.com
 0.0.0.0 logua.com
 0.0.0.0 lop.com
 0.0.0.0 lopsidedspoon.com
@@ -51364,10 +51363,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rocketadx.com
 0.0.0.0 ads.roku.com
 0.0.0.0 p.ads.roku.com
-0.0.0.0 cooper.logs.roku.com
-0.0.0.0 giga.logs.roku.com
-0.0.0.0 scribe.logs.roku.com
-0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 api-alt.rollbar.com
 0.0.0.0 cdn.rollbar.com
 0.0.0.0 changelog.rollbar.com
